@@ -135,6 +135,9 @@ git checkout tags/part-05-login
 | `part-16-production-server` | 第16回: 本番環境のアーキテクチャ |
 | `part-17-docker-cicd` | 第17回: DockerとCI/CDによるデプロイ自動化 |
 
+## 📄 ライセンス
+このプロジェクトはMITライセンスです。
+
 ## ✍️ 著者・ブログ
 
   - **著者:** なおくん
